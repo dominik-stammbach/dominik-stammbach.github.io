@@ -24,4 +24,8 @@ My Ph.D. supervisors are Elliott Ash and Mrinmaya Sachan. See my [CV](https://ww
 
 - [ClimateNLP 2024](https://nlp4climate.github.io/): Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
 
+### Contact
 
+- email: dominsta@ethz.ch
+- twitter: [dominsta_nlp](https://twitter.com/dominsta_nlp)
+- github: [dominiksinsaarland](https://github.com/dominiksinsaarland)
