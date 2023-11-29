@@ -18,7 +18,7 @@ My Ph.D. supervisors are Elliott Ash and Mrinmaya Sachan. See my [CV](https://ww
 
 - [e-FEVER: Explanations and Summaries for Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/453826), with Elliott Ash (Truth and Trust Online, 2020)
 
-- [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann (Second Workshop on Fact Extraction and VERification, 2021)
+- [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann (Second Workshop on Fact Extraction and VERification, 2019)
 
 ### Ongoing Projects
 
