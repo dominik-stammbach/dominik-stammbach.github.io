@@ -6,19 +6,19 @@ My Ph.D. supervisors are Elliott Ash and Mrinmaya Sachan. See my [CV](https://ww
 
 ### Research (Selected Publications)
 
-- [Environmental Claim Detection](https://aclanthology.org/2023.acl-short.91/), with Nicolas Webersinke, Julia Bingler, Mathias Kraus and Markus Leippold
+- [Environmental Claim Detection](https://aclanthology.org/2023.acl-short.91/), with Nicolas Webersinke, Julia Bingler, Mathias Kraus and Markus Leippold (ACL 2023)
 
-- [Revisiting Automated Topic Model Evaluation with Large Language Models](https://arxiv.org/abs/2305.12152), with Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan and Elliott Ash
+- [Revisiting Automated Topic Model Evaluation with Large Language Models](https://arxiv.org/abs/2305.12152), with Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan and Elliott Ash (EMNLP 2023)
 
-- [The Choice of Textual Knowledge Base in Automated Claim Checking](https://dl.acm.org/doi/full/10.1145/3561389), with Boya Zhang and Elliott Ash
+- [The Choice of Textual Knowledge Base in Automated Claim Checking](https://dl.acm.org/doi/full/10.1145/3561389), with Boya Zhang and Elliott Ash (ACM Journal of Data and Information Quality, 2023)
 
-- [Heroes, Villains, and Victims, and GPT-3: Automated Extraction of Character Roles Without Training Data](https://aclanthology.org/2022.wnu-1.6/) , with Maria Antoniak and Elliott Ash
+- [Heroes, Villains, and Victims, and GPT-3: Automated Extraction of Character Roles Without Training Data](https://aclanthology.org/2022.wnu-1.6/) , with Maria Antoniak and Elliott Ash (4th Workshop of Narrative Understanding, 2022)
 
-- [Evidence Selection as a Token-Level Prediction Task](https://aclanthology.org/2021.fever-1.2/)
+- [Evidence Selection as a Token-Level Prediction Task](https://aclanthology.org/2021.fever-1.2/) (Fourth Workshop on Fact Extraction and VERification, 2021)
 
-- [e-FEVER: Explanations and Summaries for Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/453826), with Elliott Ash
+- [e-FEVER: Explanations and Summaries for Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/453826), with Elliott Ash (Truth and Trust Online, 2020)
 
-- [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann
+- [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann (Second Workshop on Fact Extraction and VERification, 2021)
 
 ### Ongoing Projects
 
