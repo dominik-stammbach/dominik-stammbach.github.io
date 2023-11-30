@@ -22,7 +22,8 @@ My Ph.D. supervisors are Elliott Ash and Mrinmaya Sachan. See my [CV](https://ww
 
 ### Ongoing Projects
 
-- [ClimateNLP 2024](https://nlp4climate.github.io/): Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
+- [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organizing a track in the Conference program at AMLD EPFL on March 25 and 26, 2024
+- [ClimateNLP 2024](https://nlp4climate.github.io/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
 
 ### Contact
 
