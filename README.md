@@ -25,10 +25,11 @@ My research interests are to work on legal NLP, and to develop NLP methods which
 ### Involved in the following events
 
 - [ClimateNLP 2024](https://nlp4climate.github.io/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
+- [Sustainable Transition with AI](https://stai.jeju.ai/): Program co-chair of the IJCAI-STAI 2024 workshop
 
 ### Past events
-- [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organized a track in the Conference program at AMLD EPFL on March 25 and 26, 2024.
-- [Hackathon at Latsis Symposium 2023](https://latsis2023.ethz.ch/hackathon.html): Organized the hackathon during the "Tackling Online Hate Speech and Strengthening Public Discourse" Symposium at ETH Zurich.
+- [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organized a track in the Conference program at AMLD EPFL on March 25 and 26, 2024
+- [Hackathon at Latsis Symposium 2023](https://latsis2023.ethz.ch/hackathon.html): Organized the hackathon during the "Tackling Online Hate Speech and Strengthening Public Discourse" Symposium at ETH Zurich
 
 ### Contact
 
