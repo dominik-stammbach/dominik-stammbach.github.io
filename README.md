@@ -6,7 +6,7 @@ My research interests are to work on legal NLP, and to develop NLP methods which
 
 
 ### Research (Selected Publications)
-- [Towards Data-Centric Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/674960)
+- Doctoral thesis: [Towards Data-Centric Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/674960) 
 
 - [Environmental Claim Detection](https://aclanthology.org/2023.acl-short.91/), with Nicolas Webersinke, Julia Bingler, Mathias Kraus and Markus Leippold (ACL 2023)
 
