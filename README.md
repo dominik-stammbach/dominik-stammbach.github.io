@@ -1,14 +1,16 @@
 ### About me
 
-I am a Ph.D. student in Natural Language Processing at [ETH Zurich](https://ethz.ch/en.html). My research interests are applied natural language processing. Some projects of mine are concerned with the interesection of NLP and Climate Change, especially greenwashing detection. I also work on online safety, especially misinformation detection, and computational social sciences and computational narrative analysis. I am excited to work on interdisciplinary projects using a text as data approach.
+I am an incoming postdoctoral research associate at the [CITP at Princeton University](https://citp.princeton.edu/) starting in Fall 2024 where I wil lbe working with Peter Henderson. Prior to that, I obtained my Dr. Sc. at [ETH Zurich](https://ethz.ch/en.html) for my thesis about data-centric automated fact checking where I was supervised by Elliott Ash and Mrinmaya Sachan.
 
-My Ph.D. supervisors are Elliott Ash and Mrinmaya Sachan. See my [CV](https://www.dropbox.com/scl/fi/srm23lq2bgyfuw8hoxm9q/cv.pdf?rlkey=d8ox1ea78gx0ydn18mnck69hr&dl=0) for more information.
+My research interests are to develop NLP methods which can be applied in the context of misinformation, online safety and NLP methods at the intersection NLP and climate change. Among others, I am investigating how to detect company greenwashing at scale, the practice of companies making generic, misleading or false claims to boost their environmental credentials.
+
 
 ### Research (Selected Publications)
+- [Towards Data-Centric Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/674960)
 
 - [Environmental Claim Detection](https://aclanthology.org/2023.acl-short.91/), with Nicolas Webersinke, Julia Bingler, Mathias Kraus and Markus Leippold (ACL 2023)
 
-- [Revisiting Automated Topic Model Evaluation with Large Language Models](https://arxiv.org/abs/2305.12152), with Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan and Elliott Ash (EMNLP 2023)
+- [Revisiting Automated Topic Model Evaluation with Large Language Models](https://aclanthology.org/2023.emnlp-main.581/), with Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan and Elliott Ash (EMNLP 2023)
 
 - [The Choice of Textual Knowledge Base in Automated Claim Checking](https://dl.acm.org/doi/full/10.1145/3561389), with Boya Zhang and Elliott Ash (ACM Journal of Data and Information Quality, 2023)
 
@@ -20,10 +22,13 @@ My Ph.D. supervisors are Elliott Ash and Mrinmaya Sachan. See my [CV](https://ww
 
 - [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann (Second Workshop on Fact Extraction and VERification, 2019)
 
-### Ongoing Projects
+### Involved in the following events
 
-- [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organizing a track in the Conference program at AMLD EPFL on March 25 and 26, 2024
 - [ClimateNLP 2024](https://nlp4climate.github.io/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
+
+### Past events
+- [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organized a track in the Conference program at AMLD EPFL on March 25 and 26, 2024.
+- [Hackathon at Latsis Symposium 2023](https://latsis2023.ethz.ch/hackathon.html): Organized the hackathon during the "Tackling Online Hate Speech and Strengthening Public Discourse" Symposium at ETH Zurich.
 
 ### Contact
 
