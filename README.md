@@ -1,6 +1,6 @@
 ### About me
 
-I am an incoming postdoctoral research associate at the [CITP at Princeton University](https://citp.princeton.edu/) starting in Fall 2024 where I will be working with Peter Henderson on legal NLP. Prior to that, I obtained my Dr. Sc. at [ETH Zurich](https://ethz.ch/en.html) for my thesis about data-centric automated fact checking where I was supervised by Elliott Ash and Mrinmaya Sachan.
+I defended my PhD dissertation in April 2024 at [ETH Zurich](https://ethz.ch/en.html) for my thesis about data-centric automated fact checking where I was supervised by Elliott Ash and Mrinmaya Sachan.
 
 My research interests are to work on legal NLP, and to develop NLP methods which can be applied in the context of misinformation, online safety and the intersection NLP and climate change. Among others, I am investigating how to detect company greenwashing at scale, the practice of companies making generic, misleading or false claims to boost their environmental credentials.
 
