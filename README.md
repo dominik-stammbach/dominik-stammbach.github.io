@@ -1,6 +1,6 @@
 ### About me
 
-I defended my PhD dissertation in April 2024 at [ETH Zurich](https://ethz.ch/en.html) for my thesis on data-centric automated fact checking. During my time at ETH, I wassupervised by Elliott Ash and Mrinmaya Sachan.
+I defended my PhD dissertation in April 2024 at [ETH Zurich](https://ethz.ch/en.html) where I was writing my thesis on data-centric automated fact checking. During my time at ETH, I was supervised by Elliott Ash and Mrinmaya Sachan.
 
 My research interests are in applied NLP, legal NLP, and to develop NLP methods which can be applied in the context of misinformation, online safety and the intersection NLP and climate change. Among others, I am investigating how to detect company greenwashing at scale, the practice of companies making generic, misleading or false claims to boost their environmental credentials.
 
