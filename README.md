@@ -32,6 +32,6 @@ My research interests are in applied NLP, legal NLP, and to develop NLP methods 
 
 ### Contact
 
-- email: dominsta@ethz.ch
+- email: [dominsta@princeton.edu](mailto:dominsta@princeton.edu)
 - twitter: [dominsta_nlp](https://twitter.com/dominsta_nlp)
 - github: [dominiksinsaarland](https://github.com/dominiksinsaarland)
