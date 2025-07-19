@@ -30,7 +30,7 @@ My research interests are in applied NLP. Currently I work mostly on legal NLP a
 ### Involved in the following events
 
 - Keynote speaker at the [First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025](https://dmail-workshop.github.io/DMAIL2025/program/)
-- Organizer of [ClimateNLP 2025](https://nlp4climate.github.io/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
+- Organizer of [ClimateNLP 2025](https://nlp4climate.github.io/): Organizing the second Natural Language Processing meets Climate Change Workshop collocated with ACL 2025 
 - Organizer of [ClimateNLP 2024](https://nlp4climate.github.io/climatenlp2024/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
 - Program co-chair of [Sustainable Transition with AI](https://stai.jeju.ai/):
 - Organizer of [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organized a track in the Conference program at AMLD EPFL on March 25 and 26, 2024
