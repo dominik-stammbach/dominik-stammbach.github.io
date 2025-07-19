@@ -1,8 +1,13 @@
 ### About me
 
-I am a postdoctoral research associate at [CITP](https://citp.princeton.edu/citp-people/dominik-stammbach/) and the [Polaris Lab](https://www.polarislab.org/) at Princeton University. I am currently working on legal NLP and AI which works for public defenders. Prior to that, I obtained my Dr. Sc. in Spring 2024 at [ETH Zurich](https://ethz.ch/en.html) for my thesis on data-centric automated fact checking.
+I am a postdoctoral research associate at the [Center for Information Technology Policy (CITP)](https://citp.princeton.edu/citp-people/dominik-stammbach/) and the [Polaris Lab](https://www.polarislab.org/) at Princeton University. I received my Dr. Sc. in Spring 2024 from [ETH Zurich](https://ethz.ch/en.html) for my dissertation on on data-centric automated fact-checking.
 
-My research interests are in applied NLP. Currently I work mostly on legal NLP and legal search for public defenders. More broadly, I'm interested in opportunities and challenges of NLP and AI for public agencies and public service overall, and what role NLP and AI can play to make public service more effective.
+My current research centers on legal NLP and AI to support public defenders and improve access to justice. We are developing AI tools to provide computational assistance for public defenders and make their work more effective. In parallel, we are conducting interviews with public defenders across the US to understand their perspectives on AI. Our goal is to identify opportunities and challenges around AI and its implications on the day-to-day work of public defenders, and especially what would be good use cases to develop AI tools for.
+
+More broadly, my research aims to develop NLP and AI that serve public agencies and strengthen the public sector.
+
+
+
 
 ### Current Projects
 
@@ -30,7 +35,7 @@ My research interests are in applied NLP. Currently I work mostly on legal NLP a
 ### Involved in the following events
 
 - Keynote speaker at the [First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025](https://dmail-workshop.github.io/DMAIL2025/program/)
-- Organizer of [ClimateNLP 2025](https://nlp4climate.github.io/): Organizing the second Natural Language Processing meets Climate Change Workshop collocated with ACL 2025 
+- Organizer of [ClimateNLP 2025](https://nlp4climate.github.io/): Organizing the 2nd Natural Language Processing meets Climate Change Workshop collocated with ACL 2025 
 - Organizer of [ClimateNLP 2024](https://nlp4climate.github.io/climatenlp2024/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
 - Program co-chair of [Sustainable Transition with AI](https://stai.jeju.ai/):
 - Organizer of [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organized a track in the Conference program at AMLD EPFL on March 25 and 26, 2024
