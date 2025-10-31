@@ -12,7 +12,9 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 ### Current Projects
 
 - Legal search for public defenders
-- [Qualitative interview study](https://coda.io/@inyoungcheong/ai-for-public-defense) on What kind of AI / computational assistance public defenders need
+- Qualitative interview study on Public Defenders’ Perspectives on AI Adoption, [link to draft on arXiv](https://arxiv.org/pdf/2510.22933) (with Inyoung Cheon, Patty Liu and Peter Henderson) 
+
+What kind of AI / computational assistance public defenders need [link to draft on arXiv)
 
 ### Research (Selected Publications)
 
