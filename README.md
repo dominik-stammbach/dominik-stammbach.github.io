@@ -20,13 +20,9 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 
 - [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with Philine Widmer, Eunjung Cho, Caglar Gulcehre and Elliott Ash, EMNLP 2024
 
-- [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with Philine Widmer, Eunjung Cho, Caglar Gulcehre and Elliott Ash, EMNLP 2024
-
 - [Environmental Claim Detection](https://aclanthology.org/2023.acl-short.91/), with Nicolas Webersinke, Julia Bingler, Mathias Kraus and Markus Leippold (ACL 2023)
 
 - [Revisiting Automated Topic Model Evaluation with Large Language Models](https://aclanthology.org/2023.emnlp-main.581/), with Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan and Elliott Ash (EMNLP 2023)
-
-- [The Choice of Textual Knowledge Base in Automated Claim Checking](https://dl.acm.org/doi/full/10.1145/3561389), with Boya Zhang and Elliott Ash (ACM Journal of Data and Information Quality, 2023)
 
 - [Heroes, Villains, and Victims, and GPT-3: Automated Extraction of Character Roles Without Training Data](https://aclanthology.org/2022.wnu-1.6/) , with Maria Antoniak and Elliott Ash (4th Workshop of Narrative Understanding, 2022)
 
@@ -34,7 +30,6 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 
 - [e-FEVER: Explanations and Summaries for Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/453826), with Elliott Ash (Truth and Trust Online, 2020)
 
-- [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann (Second Workshop on Fact Extraction and VERification, 2019)
 
 ### Involved in the following events
 
