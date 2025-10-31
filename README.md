@@ -35,6 +35,15 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 
 - [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann (Second Workshop on Fact Extraction and VERification, 2019)
 
+### Involved in the following events
+
+- Keynote speaker at the [First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025](https://dmail-workshop.github.io/DMAIL2025/program/)
+- Organizer of [ClimateNLP 2025](https://nlp4climate.github.io/): Organizing the 2nd Natural Language Processing meets Climate Change Workshop collocated with ACL 2025 
+- Organizer of [ClimateNLP 2024](https://nlp4climate.github.io/climatenlp2024/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
+- Program co-chair of [Sustainable Transition with AI](https://stai.jeju.ai/):
+- Organizer of [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organized a track in the Conference program at AMLD EPFL on March 25 and 26, 2024
+- Organizer of [Hackathon at Latsis Symposium 2023](https://latsis2023.ethz.ch/hackathon.html): Organized the hackathon during the "Tackling Online Hate Speech and Strengthening Public Discourse" Symposium at ETH Zurich
+
 ### Work I contributed to (selected publications)
 
 - [A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection](https://arxiv.org/pdf/2510.21679), Gaku Morio, Harri Rowlands, Dominik Stammbach, Christopher D. Manning, Peter Henderson, forthcoming NeurIPS 2025 Datasets & Benchmarks Track, 2025
@@ -49,15 +58,6 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 
 - [The Law and NLP: Bridging Disciplinary Disconnects](https://aclanthology.org/2023.findings-emnlp.224/), Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland, Findings EMNLP 2023
 
-
-### Involved in the following events
-
-- Keynote speaker at the [First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025](https://dmail-workshop.github.io/DMAIL2025/program/)
-- Organizer of [ClimateNLP 2025](https://nlp4climate.github.io/): Organizing the 2nd Natural Language Processing meets Climate Change Workshop collocated with ACL 2025 
-- Organizer of [ClimateNLP 2024](https://nlp4climate.github.io/climatenlp2024/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
-- Program co-chair of [Sustainable Transition with AI](https://stai.jeju.ai/):
-- Organizer of [Accelerating Climate Change Action through Machine Learning](https://appliedmldays.org/): Organized a track in the Conference program at AMLD EPFL on March 25 and 26, 2024
-- Organizer of [Hackathon at Latsis Symposium 2023](https://latsis2023.ethz.ch/hackathon.html): Organized the hackathon during the "Tackling Online Hate Speech and Strengthening Public Discourse" Symposium at ETH Zurich
 
 ### Contact
 
