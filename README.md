@@ -14,9 +14,10 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 - Legal search for public defenders
 - Qualitative interview study on Public Defenders’ Perspectives on AI Adoption: [Link to draft](https://arxiv.org/pdf/2510.22933) (with Inyoung Cheong, Patty Liu and Peter Henderson) 
 
-What kind of AI / computational assistance public defenders need [link to draft on arXiv)
 
 ### Research (Selected Publications)
+
+- [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with Philine Widmer, Eunjung Cho, Caglar Gulcehre and Elliott Ash, EMNLP 2024
 
 - [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with Philine Widmer, Eunjung Cho, Caglar Gulcehre and Elliott Ash, EMNLP 2024
 
@@ -33,6 +34,21 @@ What kind of AI / computational assistance public defenders need [link to draft 
 - [e-FEVER: Explanations and Summaries for Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/453826), with Elliott Ash (Truth and Trust Online, 2020)
 
 - [Exploiting Evidence Enhancement for the FEVER Shared Task](https://aclanthology.org/D19-6616/), with Günter Neumann (Second Workshop on Fact Extraction and VERification, 2019)
+
+### Work I contributed to (selected publications)
+
+- [A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection](https://arxiv.org/pdf/2510.21679), Gaku Morio, Harri Rowlands, Dominik Stammbach, Christopher D. Manning, Peter Henderson, forthcoming NeurIPS 2025 Datasets & Benchmarks Track, 2025
+
+- [Automated fact-checking of climate claims with large language models](https://www.nature.com/articles/s44168-025-00215-8), Markus Leippold, Saeid Ashraf Vaghefi, Dominik Stammbach et al., npj Climate Action, 2025
+
+- [Translating Legalese: Enhancing Public Understanding of Court Opinions with Legal Summarizers](https://dl.acm.org/doi/abs/10.1145/3614407.3643700), Elliott Ash, Aniket Kesari, Suresh Naidu, Lena Song, Dominik Stammbach, CS Law, 2024
+
+- [LePaRD: A Large-Scale Dataset of Judicial Citations to Precedent](https://aclanthology.org/2024.acl-long.532/), Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland, ACL 2024
+
+- [ChatClimate: Grounding conversational AI in climate science](https://www.nature.com/articles/s43247-023-01084-x), Saeid Ashraf Vaghefi, Dominik Stammbach et al., Communications Earth & Environment, 2023
+
+- [The Law and NLP: Bridging Disciplinary Disconnects](https://aclanthology.org/2023.findings-emnlp.224/), Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland, Findings EMNLP 2023
+
 
 ### Involved in the following events
 
