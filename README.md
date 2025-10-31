@@ -28,8 +28,6 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 
 - [Evidence Selection as a Token-Level Prediction Task](https://aclanthology.org/2021.fever-1.2/) (Fourth Workshop on Fact Extraction and VERification, 2021)
 
-- [e-FEVER: Explanations and Summaries for Automated Fact Checking](https://www.research-collection.ethz.ch/handle/20.500.11850/453826), with Elliott Ash (Truth and Trust Online, 2020)
-
 
 ### Involved in the following events
 
