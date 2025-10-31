@@ -6,8 +6,9 @@ My current research centers on legal NLP and AI to support public defenders and 
 
 More broadly, my research aims to develop NLP and AI that serve public agencies and strengthen the public sector.
 
-
-
+- email: [dominsta@princeton.edu](mailto:dominsta@princeton.edu)
+- twitter: [dominsta_nlp](https://twitter.com/dominsta_nlp)
+- github: [dominiksinsaarland](https://github.com/dominiksinsaarland)
 
 ### Current Projects
 
@@ -59,8 +60,3 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 - [The Law and NLP: Bridging Disciplinary Disconnects](https://aclanthology.org/2023.findings-emnlp.224/), Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland, Findings EMNLP 2023
 
 
-### Contact
-
-- email: [dominsta@princeton.edu](mailto:dominsta@princeton.edu)
-- twitter: [dominsta_nlp](https://twitter.com/dominsta_nlp)
-- github: [dominiksinsaarland](https://github.com/dominiksinsaarland)
