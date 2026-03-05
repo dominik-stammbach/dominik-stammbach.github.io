@@ -13,7 +13,7 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 ### Current Projects
 
 - Legal search for public defenders: [Link to draft](https://arxiv.org/pdf/2601.14348)
-- Qualitative interview study on Public Defenders’ Perspectives on AI Adoption: [Link to draft](https://arxiv.org/pdf/2510.22933) (with Inyoung Cheong, Patty Liu and Peter Henderson) 
+- Qualitative interview study on Public Defenders’ Perspectives on AI Adoption: [Forthcoming at FAccT 2026](https://arxiv.org/pdf/2510.22933) (with Inyoung Cheong, Patty Liu and Peter Henderson) 
 
 
 ### Research (Selected Publications)
