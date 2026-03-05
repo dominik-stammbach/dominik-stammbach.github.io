@@ -30,7 +30,8 @@ More broadly, my research aims to develop NLP and AI that serve public agencies 
 
 
 ### Involved in the following events
-
+- Editor of the Climactic Change Special Issue [NLP and AI as Climate Solutions: Opportunities and Challenges](https://link.springer.com/collections/igbiebchhh)
+- Organizer of [ClimateNLP 2026](https://nlp4climate.github.io/): Organizing the 3rd Natural Language Processing meets Climate Change Workshop collocated with EMNLP 2026
 - Keynote speaker at the [First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025](https://dmail-workshop.github.io/DMAIL2025/program/)
 - Organizer of [ClimateNLP 2025](https://nlp4climate.github.io/): Organizing the 2nd Natural Language Processing meets Climate Change Workshop collocated with ACL 2025 
 - Organizer of [ClimateNLP 2024](https://nlp4climate.github.io/climatenlp2024/): Organizing a Workshop collocated with ACL 2024 on Natural Language Processing meets Climate Change
